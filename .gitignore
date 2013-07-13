@@ -1,0 +1,11 @@
+# Common files to ignore
+*.swp
+*.zip
+*.suo
+*.user
+BarbieBear/BarbieBear/bin
+BarbieBear/BarbieBearContent/bin
+BarbieBear/BarbieBear/obj
+BarbieBear/BarbieBearContent/obj
+*.cachefile
+*.ccgame
